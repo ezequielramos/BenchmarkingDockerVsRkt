@@ -2,7 +2,7 @@
 
 programToExec=$1
 filename=$2
-primeQty=$3
+param=$3
 
 echo "" > $filename
 
@@ -12,7 +12,7 @@ while [ $x != 10 ]
 do
 	echo "execucao $x:" >> $filename
 	START=$(date +%s.%N)
-	echo $(./$programToExec $primeQty) >> $filename
+	echo $(./$programToExec $param) >> $filename
 	DIFF=$(echo "$(date +%s.%N) - $START" | bc)
 	echo "Tempo execucao real: $DIFF" >> $filename
 
