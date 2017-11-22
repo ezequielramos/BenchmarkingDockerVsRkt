@@ -1,0 +1,41 @@
+
+execucao 0:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1637225.02 ops/sec)  1024.00 MB transferred (1598.85 MB/sec)   Test execution summary: total time: 0.6405s total number of events: 1048576 total time taken by event execution: 0.5076 per-request statistics: min: 0.00ms avg: 0.00ms max: 2.95ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5076/0.00 
+Tempo execucao real: 1.051860625
+
+execucao 1:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1594953.35 ops/sec)  1024.00 MB transferred (1557.57 MB/sec)   Test execution summary: total time: 0.6574s total number of events: 1048576 total time taken by event execution: 0.5173 per-request statistics: min: 0.00ms avg: 0.00ms max: 1.50ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5173/0.00 
+Tempo execucao real: 1.255411734
+
+execucao 2:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1581076.09 ops/sec)  1024.00 MB transferred (1544.02 MB/sec)   Test execution summary: total time: 0.6632s total number of events: 1048576 total time taken by event execution: 0.5266 per-request statistics: min: 0.00ms avg: 0.00ms max: 3.43ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5266/0.00 
+Tempo execucao real: 1.300269823
+
+execucao 3:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1530222.60 ops/sec)  1024.00 MB transferred (1494.36 MB/sec)   Test execution summary: total time: 0.6852s total number of events: 1048576 total time taken by event execution: 0.5417 per-request statistics: min: 0.00ms avg: 0.00ms max: 2.36ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5417/0.00 
+Tempo execucao real: 1.302178789
+
+execucao 4:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1561014.90 ops/sec)  1024.00 MB transferred (1524.43 MB/sec)   Test execution summary: total time: 0.6717s total number of events: 1048576 total time taken by event execution: 0.5295 per-request statistics: min: 0.00ms avg: 0.00ms max: 1.53ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5295/0.00 
+Tempo execucao real: 1.296473102
+
+execucao 5:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1548224.73 ops/sec)  1024.00 MB transferred (1511.94 MB/sec)   Test execution summary: total time: 0.6773s total number of events: 1048576 total time taken by event execution: 0.5381 per-request statistics: min: 0.00ms avg: 0.00ms max: 2.33ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5381/0.00 
+Tempo execucao real: 1.263033669
+
+execucao 6:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1653593.22 ops/sec)  1024.00 MB transferred (1614.84 MB/sec)   Test execution summary: total time: 0.6341s total number of events: 1048576 total time taken by event execution: 0.5018 per-request statistics: min: 0.00ms avg: 0.00ms max: 1.79ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5018/0.00 
+Tempo execucao real: 1.207292846
+
+execucao 7:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1569307.98 ops/sec)  1024.00 MB transferred (1532.53 MB/sec)   Test execution summary: total time: 0.6682s total number of events: 1048576 total time taken by event execution: 0.5256 per-request statistics: min: 0.00ms avg: 0.00ms max: 1.36ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5256/0.00 
+Tempo execucao real: 1.228089139
+
+execucao 8:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1547597.75 ops/sec)  1024.00 MB transferred (1511.33 MB/sec)   Test execution summary: total time: 0.6776s total number of events: 1048576 total time taken by event execution: 0.5362 per-request statistics: min: 0.00ms avg: 0.00ms max: 2.18ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5362/0.00 
+Tempo execucao real: 1.260378532
+
+execucao 9:
+sysbench 0.4.12: multi-threaded system evaluation benchmark  Running the test with following options: Number of threads: 1  Doing memory operations speed test Memory block size: 1K  Memory transfer size: 1024M  Memory operations type: write Memory scope type: global Threads started! Done.  Operations performed: 1048576 (1508297.08 ops/sec)  1024.00 MB transferred (1472.95 MB/sec)   Test execution summary: total time: 0.6952s total number of events: 1048576 total time taken by event execution: 0.5505 per-request statistics: min: 0.00ms avg: 0.00ms max: 1.81ms approx. 95 percentile: 0.00ms  Threads fairness: events (avg/stddev): 1048576.0000/0.00 execution time (avg/stddev): 0.5505/0.00 
+Tempo execucao real: 1.299637292
+
